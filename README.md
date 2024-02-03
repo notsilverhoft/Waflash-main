@@ -1,10 +1,11 @@
+## THIS IS A FORK OF NATE'S REPO. NOT RESPONDING TO ISSUES OR PULL REQUESTS.
+
 <p align="center">
 <kbd>
 <a href="https://vidkidz.github.io/">
 <img style="border-radius:50%" height="150px" src="https://vidkidz.github.io/waflash-og-image.png"></a>
 </kbd>
 </p>
-
 <h2 align="center">WAFlash Player</h2>
 <p align="center">📌 How to use it on your website! • via html, css, js <br><br> Play <a href="https://raw.githack.com/nate-games/waflash/main/code.html">Live</a> Plants vs. Zombies (Web Version) used for an example.</p>
 
