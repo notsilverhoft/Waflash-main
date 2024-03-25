@@ -6,5 +6,5 @@ let is_mobile = /Mobi/i.test(window.navigator.userAgent); if (is_mobile) {
         const canvasElement = document.getElementById('canvas'); let focused = false; return function (ev) {
             if (ev.target == canvasElement) { if (!focused) { canvasElement.focus(); focused = true; } } else { if (focused) { focused = false; } } return true;
         }
-    })()); import { createWaflash } from 'https://github.com/notsilverhoft/Waflash-main/blob/master/waflash-player.min.js';
+    })()); import { createWaflash } from 'https://raw.githubusercontent.com/notsilverhoft/Waflash-main/master/waflash-player.min.js';
 createWaflash(gameConfig.swfUrl, window.wafOptions || {});
