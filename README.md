@@ -1,4 +1,4 @@
-## THIS IS A FORK OF NATE'S REPO. NOT RESPONDING TO ISSUES OR PULL REQUESTS.
+## Forked from nate, whos repo is now gone, I will be reconfiguring to work with my repo.
 
 <p align="center">
 <kbd>
